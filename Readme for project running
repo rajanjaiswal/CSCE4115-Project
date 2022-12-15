@@ -1,0 +1,9 @@
+The proposed design:
+The current program is coded with python programming language. 
+
+Pygame module is used to get a desired result. 
+ 
+Install Pygame in VSCode (pip install pygame)
+
+The code is compiled using Visual studio code and python 3.9 IDLE.
+
